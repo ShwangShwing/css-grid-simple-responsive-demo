@@ -71,7 +71,7 @@ footer {
 }
 
 
-@media (min-width: 800px) {
+@media (min-width: 400px) {
     .container {
         display: grid;
         grid-template-columns: 1fr auto;
